@@ -5,9 +5,7 @@ Discord: **harmonious_beetle_27930**
 # Projects:
 
 ## Models
-<img width=32.9% src="https://i.imgur.com/ElEpxoO.png">
-<img width=32.9% src="https://i.imgur.com/8nuM2pz.png">
-<img width=32.9% src="https://i.imgur.com/aLE8TkM.png">
+<img width=32.9% src="https://i.imgur.com/ElEpxoO.png"><img width=32.9% src="https://i.imgur.com/8nuM2pz.png"><img width=32.9% src="https://i.imgur.com/aLE8TkM.png">
 
 ## Game Showcase Videos
 
