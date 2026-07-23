@@ -11,11 +11,11 @@ Discord: **harmonious_beetle_27930**
 
 #### Isometric Dungeon Testing
 https://github.com/user-attachments/assets/9f5b366e-185d-4d66-92fc-b44fc2048225
-#### Isometric Paper Simulator (game had potentional, but was discontinued due to me hitting a skill roadblock)
+#### Isometric Paper Simulator 
 https://github.com/user-attachments/assets/930e552f-24a0-4091-80e8-922eb50831fc
-#### Paper Simulator Remake (discontinued again due to burnout)
+#### Paper Simulator Remake
 https://github.com/user-attachments/assets/4a562253-5036-426f-bb15-f4a75c4674ce
-#### "Faith The Unholy Trinity" inspired game (was learning stuff here)
+#### "Faith The Unholy Trinity" inspired game 
 https://github.com/user-attachments/assets/2e66f83d-fdf5-44ca-9169-c66e71085c9c
 
 ## Animations
