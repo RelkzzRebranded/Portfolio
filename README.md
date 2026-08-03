@@ -15,10 +15,18 @@ https://github.com/user-attachments/assets/9f5b366e-185d-4d66-92fc-b44fc2048225
 https://github.com/user-attachments/assets/930e552f-24a0-4091-80e8-922eb50831fc
 #### Paper Simulator Remake
 https://github.com/user-attachments/assets/4a562253-5036-426f-bb15-f4a75c4674ce
-#### "Faith The Unholy Trinity" inspired game 
+#### "Faith The Unholy Trinity" inspired game _
 https://github.com/user-attachments/assets/2e66f83d-fdf5-44ca-9169-c66e71085c9c
+#### Siege Defense game (Protect The Big Burger)
+https://github.com/user-attachments/assets/3131ab33-2c63-4244-a9bd-90b98bebb857
 
 ## Animations
+
+<img width="233" height="282" alt="blender_RP5FbQHcVJ" src="https://github.com/user-attachments/assets/c1023561-976f-4a20-a4d2-74472881de3f" />
+<img width="216" height="285" alt="blender_6yP5zdV1vt" src="https://github.com/user-attachments/assets/5ab8c9e2-cb9f-466d-be83-76778bcbc33d" />
+<img width="343" height="325" alt="blender_PgppneabAR" src="https://github.com/user-attachments/assets/5e534f7f-e699-418a-8ab9-9dcd6dd8fa0b" />
+<img width="305" height="326" alt="blender_lwm4ba9gi9" src="https://github.com/user-attachments/assets/ac4e0d4d-df02-499f-bb76-302120803627" />
+
 
 https://github.com/user-attachments/assets/54da30bd-02e1-47f5-8d34-cfe43c952de3
 
