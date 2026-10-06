@@ -2,6 +2,11 @@
 - I'm a multipurpose dev, I can do programming (luau & roblox-ts), modeling, texturing, and animation.
 ## My socials at the moment:
 Discord: **harmonious_beetle_27930**
+
+SHORTCUTS:
+[GAMES](https://github.com/RelkzzRebranded/Portfolio/blob/main/README.md#game-showcase-videos)
+[ANIMATIONS](https://github.com/RelkzzRebranded/Portfolio/blob/main/README.md#animations)
+
 # Projects:
 
 ## Models & VFX
