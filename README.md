@@ -1,5 +1,5 @@
 # About me
-- I'm a multipurpose dev, I can do programming (luau & roblox-ts), modeling, texturing, and animation.
+- I'm a versatile dev, I can do scripting (luau & roblox-ts), modeling, texturing, vfx and animation.
 ## My socials at the moment:
 Discord: **harmonious_beetle_27930**
 
