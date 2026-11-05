@@ -1,4 +1,5 @@
-
+# DEV NOTE:
+## If you're suspicious on why some of the videos don't have the same avatar, that's because I changed avatars duh.
 
 #### Isometric Dungeon Testing
 https://github.com/user-attachments/assets/9f5b366e-185d-4d66-92fc-b44fc2048225
