@@ -10,7 +10,6 @@ SHORTCUTS:
 # Projects:
 
 ## Models & VFX
-<img width=32.9% src="https://i.imgur.com/ElEpxoO.png"><img width=32.9% src="https://i.imgur.com/8nuM2pz.png"><img width=32.9% src="https://i.imgur.com/aLE8TkM.png"><img width=32.9% src="https://i.imgur.com/vxkORxh.png"><img width=32.9% src="https://i.imgur.com/rO141bS.png"><img width=32.9% src="https://i.imgur.com/cwmYuRE.gif"><img width=32.9% src="https://i.imgur.com/aO8isqK.png"><img width="256" height="144" alt="image" src="https://github.com/user-attachments/assets/8e183a26-ba4f-41b6-b220-32212a496de5" />
 
 ## Game Showcase Videos
 
