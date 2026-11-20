@@ -1,7 +1,5 @@
 # About me
 - I'm a versatile dev, I can do scripting (luau & roblox-ts), modeling, texturing, vfx and animation.
-## My socials at the moment:
-Discord: **harmonious_beetle_27930**
 
 # Projects:
 
@@ -11,3 +9,7 @@ Discord: **harmonious_beetle_27930**
 [Link](https://github.com/RelkzzRebranded/Portfolio/blob/main/GAME%20SHOWCASE.md)
 ## Animations
 [Link](https://github.com/RelkzzRebranded/Portfolio/blob/main/ANIMATIONS.md)
+
+# My socials at the moment:
+Discord: **harmonious_beetle_27930**
+
