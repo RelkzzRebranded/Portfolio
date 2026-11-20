@@ -1,15 +1,14 @@
 # Relkzz (AlcoJus)
 ## Game Scripter | Solo Developer
-- Luau • Gameplay Programming • Backend Systems
+- Luau • Gameplay Programming
 ## About Me
 I'm a solo Roblox developer specializing in Luau scripting.
-I have experience implementing gameplay mechanics, backend systems, and functional user interfaces.
+I have experience implementing gameplay mechanics and functional user interfaces.
 
 I also have experience with 3D modeling, texturing, VFX, and animation.
 
 **Technical Skills**:
 - Gameplay mechanics and systems
-- Backend and data management
 - Multiplayer networking
 - UI programming
 - Economy and progression
