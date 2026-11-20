@@ -1,9 +1,11 @@
 # Relkzz (AlcoJus)
 ## Game Scripter | Solo Developer
-- Luau • Gameplay Programming • Backend Systems • Multiplayer
+- Luau • Gameplay Programming • Backend Systems
 ## About Me
-I am a solo developer, i have experience with modeling, texturing, vfx, and scripting.
-I specialize in scripting
+I'm a solo Roblox developer specializing in Luau scripting.
+I have experience implementing gameplay mechanics, backend systems, and functional user interfaces.
+
+I also have experience with 3D modeling, texturing, VFX, and animation.
 
 **Technical Skills**:
 - Gameplay mechanics and systems
@@ -13,15 +15,27 @@ I specialize in scripting
 - Economy and progression
 - Optimization and debugging
 
-## Featured Games:
+## Selected Projects:
 #### Isometric Paper Simulator 
+**Status:** Prototype
+
 https://github.com/user-attachments/assets/930e552f-24a0-4091-80e8-922eb50831fc
 #### Paper Simulator
+**Status:** Prototype
+
 https://github.com/user-attachments/assets/4a562253-5036-426f-bb15-f4a75c4674ce
-#### Siege Defense game
+#### Siege Defense
+**Status:** Prototype
+
 https://github.com/user-attachments/assets/3131ab33-2c63-4244-a9bd-90b98bebb857
+#### Noob Idle
+**Status:** In Dev
+
+https://github.com/user-attachments/assets/c808306a-c4f9-47d9-ab6b-261dee1e65b8
+
 ## Systems Showcase:
 #### QTE SYSTEM
+
 https://github.com/user-attachments/assets/d4c5fc0e-a4ee-435c-b862-6f2ada517210
 
 ## Additional Skills:
