@@ -8,11 +8,11 @@ I have experience implementing gameplay mechanics and functional user interfaces
 I also have experience with 3D modeling, texturing, VFX, and animation.
 
 **Technical Skills**:
-- Gameplay mechanics and systems
-- Multiplayer networking
-- UI programming
-- Economy and progression
-- Optimization and debugging
+Gameplay Systems Development
+Server-Client Architecture
+UI Programming
+Economy & Progression Systems
+Performance Optimization
 
 ## Selected Projects:
 #### Isometric Paper Simulator 
